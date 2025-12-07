@@ -1,4 +1,4 @@
-# Redux Toolkit Todo App
+# Todo App
 
 A full-stack todo application built with modern JavaScript and TypeScript technologies. Features user authentication, todo management, and state management using Redux Toolkit.
 
